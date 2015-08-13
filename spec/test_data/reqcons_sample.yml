@@ -1,0 +1,9 @@
+config:
+  regex: true
+requirements:
+  CS135: 1
+  CS240: 4
+  CS241: 1
+  CS3\d{2}: 3
+  CS4\d{2}: 0
+
